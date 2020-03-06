@@ -7,7 +7,7 @@ pip install Scrapy
 ```
 ### you may meet error like:
 ```python
-error: Microsoft Visual C++   14.0 is required. Get it with "Microsoft Visual C++ Build Tools": http://landinghub.visualstudio.com/visual-cpp-build-tools
+error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools": http://landinghub.visualstudio.com/visual-cpp-build-tools
 ```
 
 ## Three solutions
