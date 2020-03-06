@@ -15,8 +15,11 @@ error: Microsoft Visual C++  14.0 is required. Get it with "Microsoft Visual C++
 * Go to pycharm available packages to install
 * Download Twisted(most people)
 
-
-
+But when i Download Twisted and install
+```python
+error:***.whl  is not a supported wheel on this platform
+```
+So i suggest the most fastest and efficient method is to download Microsoft Build Tools 2015 Update 3
 
 
 
