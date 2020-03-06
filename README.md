@@ -11,6 +11,16 @@ error: Microsoft Visual C++  14.0 is required. Get it with "Microsoft Visual C++
 ```
 
 ## Three solutions
-*Download Anaconda and install Scrapy
-*Go to pycharm available packages to install
-*Download Twisted(most people)
+* Download Anaconda and install Scrapy
+* Go to pycharm available packages to install
+* Download Twisted(most people)
+
+
+
+
+
+
+
+
+
+
