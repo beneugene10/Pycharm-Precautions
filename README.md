@@ -21,6 +21,7 @@ error:***.whl  is not a supported wheel on this platform
 ```
 So i suggest the most fastest and efficient method is to download Microsoft Build Tools 2015 Update 3
 
+![image](1583510365095.jpg)
 
 
 
